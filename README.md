@@ -10,3 +10,11 @@
 ![Snake animation](https://github.com/MuriloVetrin/MuriloVetrin/blob/output/github-contribution-grid-snake.svg)
 
 ## Contacts:
+
+<div>
+  
+  <a href="https://instagram.com/murilovetrin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/Murilo Vetrin#7820" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatomurilovtrindade@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+</div>
