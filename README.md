@@ -10,7 +10,7 @@
 ![Snake animation](https://github.com/MuriloVetrin/MuriloVetrin/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
-<img align="right" height="150"  style="border-radius:50px;" alt="coding-time" src="giphy.gif">
+<img align="right" height="150"  style="border-radius:50px;" alt="coding-time" src="cart.gif">
 </div>
 
 - 📝Cursando o último anos de Sistemas para Internet - Unialfa/Umuarama PR
