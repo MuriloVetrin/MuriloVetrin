@@ -9,6 +9,10 @@
 
 ![Snake animation](https://github.com/MuriloVetrin/MuriloVetrin/blob/output/github-contribution-grid-snake.svg)
 
+- 📝Cursando o último anos de Sistemas para Internet - Unialfa/Umuarama PR
+- 🖼 Também trabalho como freelancer de designer
+- 📚 Lendo: Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias
+
 ## Contacts:
 
 <div>
