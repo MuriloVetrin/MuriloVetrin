@@ -1,5 +1,5 @@
 ### Hello there 👋 
-## Sou o Murilo, como você está?
+## I'm Murilo, how are you?
 
 <div>
   
@@ -8,3 +8,5 @@
 </div>
 
 ![Snake animation](https://github.com/MuriloVetrin/MuriloVetrin/blob/output/github-contribution-grid-snake.svg)
+
+## Contacts:
