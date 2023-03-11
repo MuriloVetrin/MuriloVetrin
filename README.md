@@ -13,8 +13,6 @@
 <img align="right" height="150"  style="border-radius:50px;" alt="coding-time" src="cart.gif">
 </div>
 
-![Snake animation](https://github.com/MuriloVetrin/MuriloVetrin/blob/output/github-contribution-grid-snake.svg)
-
 - 📝Cursando o último anos de Sistemas para Internet - Unialfa/Umuarama PR
 - 🖼 Também trabalho como freelancer de designer
 - 📚 Lendo: Sprint: O Método Usado no Google Para Testar e Aplicar Novas Ideias Em Apenas Cinco Dias
