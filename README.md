@@ -7,7 +7,7 @@
 <img align="right" height="150"  style="border-radius:50px;" alt="coding-time" src="cart.gif">
 </div>
 
-- 📝Cursando o último anos de Sistemas para Internet - Unialfa/Umuarama PR
+- 📝Cursando o último ano de Sistemas para Internet - Unialfa/Umuarama PR
 - 🖼 Também trabalho como freelancer de designer
 
 ## Contacts:
