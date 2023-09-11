@@ -15,7 +15,7 @@ Hello, I'm Murilo, I'm 20 years old, and I live in Douradina, PR. Currently, I'm
   <img align="center" alt="Murilo-Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
 </div>
 
-### Additional Information::
+### Additional Information:
 
 - 📝 Completed High School at Alfa Umuarama-PR (2018-2020).
 - :speaker: 3 years of English language course at CNA (2016-2018).
