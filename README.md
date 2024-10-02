@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Hello+there+👋;Bem+vindos!+/+Welcome!+/+¡Bienvenindos!:%29)](https://git.io/typing-svg)
 
 
-Hello, I'm Murilo, I'm 20 years old, and I live in Douradina, PR. Currently, I'm working as an apprentice at Gazintech (02/23 - 02/24), and I'm in the final semester of my studies at Unialfa in Umuarama, PR. In this profile, you will find my main projects, such as <a href="https://github.com/MuriloVetrin/Projetos-Gazin.git">Projetos-Gazin</a>, an exclusive repository for the projects I've undertaken at Gazin as an apprentice. You will also see <a href="https://github.com/MuriloVetrin/FACULDADE-2021-2023.git">FACULDADE-2021-2023</a>, which will contain Hackathons and some of the assignments I've completed during my time in college (2021 - 2023).
+Hello, I'm Murilo, I'm 21 years old, and I live in Douradina, PR. Currently, I'm working as an apprentice at Gazintech (02/23 - 02/24), and I'm in the final semester of my studies at Unialfa in Umuarama, PR. In this profile, you will find my main projects, such as <a href="https://github.com/MuriloVetrin/Projetos-Gazin.git">Projetos-Gazin</a>, an exclusive repository for the projects I've undertaken at Gazin as an apprentice. You will also see <a href="https://github.com/MuriloVetrin/FACULDADE-2021-2023.git">FACULDADE-2021-2023</a>, which will contain Hackathons and some of the assignments I've completed during my time in college (2021 - 2023).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
